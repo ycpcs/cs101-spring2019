@@ -1,0 +1,192 @@
+/*
+ * The #back div makes sure that the center content
+ * area extends the full height of the visible area,
+ * even if the #content div isn't tall enough on its own.
+ */
+#back {
+	position: fixed;
+	z-index: -1;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+#back, #content {
+	background: white;
+	max-width: 52em;
+	padding: 0px 2em;
+	margin: 0 auto;
+	border-left: 8px solid #0b0;
+	border-right: 8px solid #0b0;
+}
+
+#header {
+	font-size: 200%;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+#footer {
+	margin-top: 30px;
+	padding: 10px 30px;
+	color: black;
+}
+
+#header, #footer {
+	background: #060;
+	color: #8f8;
+	text-align: center;
+	border-top: 4px solid #0b0;
+	border-bottom: 4px solid #0b0;
+}
+
+#header a, #footer a {
+	color: #8f8;
+}
+
+#header a:hover {
+	background: black;
+	color: white;
+}
+
+#footer-pad {
+	height: 10px;
+}
+
+#subtitle {
+	font-size: 120%;
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 1.5em;
+}
+
+/* Minor tweak to get the CC image link to align nicely with the footer text */
+a.cc-img {
+	vertical-align: -2px;
+}
+
+a {
+	color: #060;
+}
+
+a:visited {
+	color: #040;
+}
+
+html {
+	min-height: 100%;
+	font-family: serif;
+}
+
+html, body {
+	margin: 0px 0px;
+	/*background: #354B99;*/
+	background: black;
+}
+
+h1, h2, h3 {
+	font-weight: bold;
+	color: #16302b;
+}
+
+h1 {
+	margin-top: 32px;
+	border-top: 2px solid #0b0;
+	border-bottom: 2px solid #0b0;
+	font-size: 180%;
+	text-align: center;
+}
+
+h2, h3 {
+	border-bottom: 1px solid #0b0;
+}
+
+h2 {
+	font-size: 150%;
+}
+
+h3 {
+	font-size: 120%;
+}
+
+table {
+	border-collapse: collapse;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin: 32px auto;
+}
+
+th {
+	border-bottom: 1px solid black;
+	text-align: left;
+}
+
+th, td {
+	padding: 4px 8px;
+}
+
+tr:nth-child(even) {
+	background: #ddd;
+}
+
+pre, code, tt {
+	font-family: monospace;
+}
+
+pre {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 8px;
+	border: 1px solid #bbb;
+	overflow: auto; /* scroll if doesn't fit within page */
+	background: #ddd;
+}
+
+dt {
+	margin-top: 8px;
+}
+
+.callout {
+	background: #fbb;
+	border: 4px solid red;
+	border-radius: 24px;
+	padding: 10px 40px;
+	margin-bottom: 24px;
+}
+
+.parimg {
+	float: right;
+	margin-left: 32px;
+}
+
+.clear {
+	clear: both;
+}
+
+.sourceref {
+	font-size: 80%;
+}
+
+div.multicol div {
+	float: left;
+}
+
+div.multicol:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+/* This is needed only because the divs used for the multicolumn links
+ * layout prevents the heading margin from being merged with the list
+ * margin. */
+.multicol-links {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+/* prevent extra margin being added for figure elements produced by the code highlighter */
+figure.highlight {
+	margin: 0;
+}
