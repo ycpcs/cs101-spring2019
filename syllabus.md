@@ -12,8 +12,9 @@ Staff:
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
-> 101 | David Babcock, <dbabcock@ycp.edu> | M 9-10AM, T 8:30-9:30AM, W 1-2PM, R 1-3PM, or by appointments
-> 102 | Deepti Jindal, <djindal@ycp.edu> | 
+> 101 (9:30-10:45AM KEC119) | David Babcock <dbabcock@ycp.edu> KEC 111 | M 9-10AM, T 8:30-9:30AM, W 1-2PM, R 1-3PM, or by appointments
+> 102 (11:00AM-12:15PM KEC119) | Neena Jacob, <njacob3@ycp.edu> KEC 100 | T R 12:30-2:00PM
+> 103 (12:30-1:45PM KEC119) | Deepti Jindal, <djindal@ycp.edu> | 
 
 Course description
 ------------------
