@@ -14,7 +14,7 @@ The textbook exercises are optional, but are a very good way to get extra practi
 
 Date | Readings/Topic | CloudCoder exercises | Textbook exercises
 :----: | :--------: | :--------------------: | :------------------:
-Jan 24 | [How to succeed in CS 101](success.html) <br /> [Lecture 1: printf, scanf, int variables](lectures/lecture01.html)| Week1 &rarr; [hello](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=984)\*, [it goes to 11](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=985)\*, [how many tacos?](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=986), [What day is it?](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=987) | 2.4, 2.5
+Jan 24 | [How to succeed in CS 101](success.html) <br /> [Lecture 1: printf, scanf, int variables](lectures/lecture01.html)| Week1 &rarr; [hello](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=984)\*, [it goes to 11](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=985)\*, [how many tacos?](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=986), [What day is it?](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=987) | 2.4, 2.5
 
 
 <!--
