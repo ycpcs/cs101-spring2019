@@ -23,13 +23,23 @@ Once you have demonstrated that you have a viable design and strategy for the pr
 
 The in-class tutors are:
 
+* Section 101 (Babcock, 9:30-10:45): Caryn Sims (T R), Madison Tibbett (T), Christian DeShong (R)
+* Section 102 (Jacob, 11:00-12:15): Lucas Gartrell (T), Brett Kearney (T), AJ Loehr (R), Rob Politi (R) 
+* Section 103 (Jindal,12:30-1:45): Cayden Reynolds (T R), Patrick Nelson (T), Johnny Quinteros (R)
+
+
 ## Evening sessions
 
-Monday, Tuesday, Wednesday, and Thursday evening drop-in hours are 6:00-8:00 PM, in KEC 119.
+Monday, Tuesday, Wednesday, and Thursday evening drop-in hours are 6:00-8:00 PM, in KEC 123.
 
 **Important**: Be aware that the evening sessions can be very busy close to an assignment deadline.  Your best bet is to *start assignments early* and *ask questions early* to avoid the rush.
 
 The evening tutors are:
+
+* Monday (6:00-8:00): Patrick Nelson, Brett Kearney, Alyssa McDevitt
+* Tuesday (6:00-8:00): Derek McClellan, Christian DeShong, Rob Politi
+* Wednesday (6:00-8:00): Cayden Reynolds, Caryn Sims, Johnny Quinteros
+* Thursday (6:00-8:00): AJ Loehr, Lucas Gartrell, Madison Tibbett
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
