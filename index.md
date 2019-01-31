@@ -39,8 +39,8 @@ All information about the course will be posted here.
 
 ## News
 * **Jan 24** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
-* **Jan 31** &mdash; The design for [Assignment 1](assign/assign01.html) is due in class
-* **Feb 5** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
+* **Updated Feb 5** &mdash; The design for [Assignment 1](assign/assign01.html) is due in class
+* **Updated Feb 8** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
 
 
 <!--
