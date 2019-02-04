@@ -182,7 +182,7 @@ scanf("%lf", &unit_price);
 double total;
 
 total = weight * unit_price;
-printf("The total cost is $%.2f\n", total);
+printf("The total cost is $%.2lf\n", total);
 {% endhighlight %}
 
 Here is an example run of this code (user input in **bold**):
