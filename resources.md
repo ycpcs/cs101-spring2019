@@ -13,11 +13,11 @@ This page contains links to useful resources.
 
 **Mac**
 
-> Install Xcode by downloading it from the Mac App Store (free). After XCode is installed, open **Terminal** (located in Launchpad/Other) and install the command line tools by running
+> Install Xcode by downloading it from the Mac App Store (free). After Xcode is installed, open **Terminal** (located in Launchpad/Other) and install the command line tools by running
 >
 >     xcode-select --install
 >
-> Then use **Terminal** (located in Applications/Utilities) wherever cygwin would be used in Windows. Instead of Notepad++, you may use any text editor of your choosing for editing the source files, e.g. Xcode, TextEdit, or a nice (free) one available in the Mac App Store is TextWrangler.
+> Then use **Terminal** wherever cygwin would be used in Windows. Instead of Notepad++, you may use any text editor of your choosing for editing the source files, e.g. Xcode, TextEdit, or a nice (free) one available in the Mac App Store is TextWrangler.
 
 **Linux**
 
