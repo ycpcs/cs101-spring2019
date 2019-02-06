@@ -41,6 +41,13 @@ All information about the course will be posted here.
 * **Jan 24** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
 * **Updated Feb 5** &mdash; The design for [Assignment 1](assign/assign01.html) is due in class
 * **Updated Feb 8** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
+* **Feb 12** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 1** is due in class
+* **Feb 15** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
+* **Feb 19** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
+* **Feb 22** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
+* **Feb 26** &mdash; **EXAM 1**
+* **Mar 5, 7** &mdash; **NO CLASS - WINTER BREAK**
+
 
 
 <!--
