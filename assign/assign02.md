@@ -156,7 +156,7 @@ Any Julian Day Number can be taken modulo 7 in order to determine which day of t
 
 The [design artifact](../design-template.pdf) for Milestone 1 is due at the beginning class on **Tuesday, Feb 12th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Friday, Feb 16th**.
+The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Friday, Feb 15th**.
 
 ## Milestone 2
 
@@ -213,7 +213,7 @@ Consider using multiple counters for which day is currently being printed and fo
 
 The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Tuesday, Feb 19th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Friday, Feb 23rd**.
+The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Friday, Feb 22nd**.
 
 Grading
 =======
