@@ -15,11 +15,11 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Feb 5  | [Lab 4: Salary Calculator](lab04.html)    | [CS101\_Lab04.zip](CS101_Lab04.zip)
 > Feb 7  | [Lab 5: Animal Classifier](lab05.html)    | [CS101\_Lab05.zip](CS101_Lab05.zip)
 > Feb 14 | [Lab 7: For loops](lab07.html)            | n/a
+> Feb 19 | [Lab 9: Bar Graph](lab09.html)            | [CS101\_Lab09.zip](CS101_Lab09.zip)
+> Feb 21 | [Lab 10: Fancy Rectangle](lab10.html)     | [CS101\_Lab10.zip](CS101_Lab10.zip)
+> Feb 26 | **Optional** [Lab 11: Barn Door](lab11.html) | [CS101\_Lab11.zip](CS101_Lab11.zip)
 
 <!--
-> Sept 7 | [Lab 4: Salary Calculator](lab04.html) <br /> [Lab 5: Animal Classifier](lab05.html) | [CS101\_Lab04.zip](CS101_Lab04.zip) <br /> [CS101\_Lab05.zip](CS101_Lab05.zip)
-> Sept 12| [Lab 6: Checking the Weather](lab06.html) | [CS101\_Lab06.zip](CS101_Lab06.zip)
-> Sept 14| [Lab 7: For loops](lab07.html) <br /> [Lab 8: Gone loopy](lab08.html)  | n/a <br /> [CS101\_Lab08.zip](CS101_Lab08.zip)
 > Sept 19| [Lab 9: Bar Graph](lab09.html) | [CS101\_Lab09.zip](CS101_Lab09.zip)
 > Sept 21| [Lab 10: Fancy Rectangle](lab10.html) <br /> [Lab 11: Barn Door](lab11.html) | [CS101\_Lab10.zip](CS101_Lab10.zip) <br /> [CS101\_Lab11.zip](CS101_Lab11.zip)
 > Oct 3  | [Lab 12: Array Exercises](lab12.html) | n/a
