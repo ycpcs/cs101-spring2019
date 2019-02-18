@@ -73,7 +73,8 @@ int a, b, product, count;
 printf("Enter two non-negative numbers: ");
 scanf("%i %i", &a, &b);
 
-for (product = 0, count = 0; count < b; count = count + 1) {
+product = 0;
+for (count = 0; count < b; count = count + 1) {
     product = product + a;
 }
 
