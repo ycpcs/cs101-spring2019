@@ -47,17 +47,13 @@ All information about the course will be posted here.
 * **Feb 26** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
 * **Feb 28** &mdash; **EXAM 1**
 * **Mar 5, 7** &mdash; **NO CLASS - WINTER BREAK**
+* **Mar 19** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
+* **Mar 21** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
+* **Mar 26** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
 
 
 
 <!--
-* **Sept 7** &mdash; The design for [Assignment 1](assign/assign01.html) is due in class
-* **Sept 12** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
-* **Sept 14** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 1** is due in class
-* **Sept 19** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
-* **Sept 21** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
-* **Sept 26** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
-* **Sept 28** &mdash; **EXAM 1**
 * **Oct 10** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
 * **Oct 12** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
 * **Oct 18** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
