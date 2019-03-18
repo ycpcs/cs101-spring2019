@@ -29,6 +29,8 @@ Mar 5  | **NO CLASS - WINTER BREAK** | |
 Mar 7  | **NO CLASS - WINTER BREAK** | |
 Mar 12 | [Lecture 10: Arrays](lectures/lecture10.html)<br>Chapter 6 through *Initializing Arrays* | Week8 &rarr; [Array Scanner](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1009)\*, [Pair sums](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1010)\*, [Exceeded Amount](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1011), [weighted average](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1062), [Not like the others](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1012)![gold star](img/goldstar-tiny.png) | 6.4, 6.7
 Mar 14 | [Lecture 10: Arrays](lectures/lecture10.html) cont. | | 
+Mar 19  | [Lecture 11: Multidimensional arrays](lectures/lecture11.html)<br>Chapter 6, *Multidimensional Arrays* | Week9 &rarr; [tic-tac-toe check](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1040)\*, [Magic Squares](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1051) | &mdash;
+Mar 21 | [Lecture 12: Functions, top-down design](lectures/lecture12.html)<br>Chapter 7 through *Automatic Variables* | Week9 &rarr;  [PrintSum](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1013)\*, [Deep Thought](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1014)\*, [Find Primes](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1015)![gold star](img/goldstar-tiny.png) | &mdash;
 
 <!--
 Oct 10  | [Lecture 11: Multidimensional arrays](lectures/lecture11.html)<br>Chapter 6, *Multidimensional Arrays* | Week7 &rarr; [tic-tac-toe check](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1040)\*, [Magic Squares](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1052) | &mdash;
