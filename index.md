@@ -50,6 +50,8 @@ All information about the course will be posted here.
 * **Mar 19** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
 * **Mar 21** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
 * **Mar 26** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
+* **Apr 3** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
+* **Apr 4** &mdash; **EXAM 2**
 
 
 
