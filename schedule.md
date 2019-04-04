@@ -35,12 +35,10 @@ Mar 26 | [Lecture 13: Functions that return a value](lectures/lecture13.html)<br
 Mar 28 | [Lecture 13: Functions that return a value](lectures/lecture13.html) cont. | | 
 Apr 2  | *Exam 2 Review* | | 
 Apr 4  | **Exam 2** |
+Apr 9  | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week12 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1016)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1018)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1017)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1052) | &mdash;
+Apr 11 | [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* | Week12 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1021)\* | &mdash;
 
 <!--
-Oct 17 | [Lecture 13: Functions that return a value](lectures/lecture13.html)<br>Chapter 7 through *Checking Function Arguments* | Week8 &rarr; [SumBetween](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1019)\*, [MaxOfThree](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1020)\*, [feetToMeters](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1037)\*, [inRange](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1038)\*, [ContainersNeeded](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1050), [WeeklyPay](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1051), [diamond](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1039)![gold star](img/goldstar-tiny.png), [check\_if\_armstrong](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1059)![gold star](img/goldstar-tiny.png) | 7.7
-Oct 19 | [Lecture 13: Functions that return a value](lectures/lecture13.html) cont. | | 
-Oct 24 | *Exam 2 Review* | | 
-Oct 26 | **Exam 2** |
 Oct 31 | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week10 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1016)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1018)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1017)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1053) | &mdash;
 Nov 2  | [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* | Week10 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1021)\* | &mdash;
 Nov 7  | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>[Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week11 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=1066)\* | &mdash;
