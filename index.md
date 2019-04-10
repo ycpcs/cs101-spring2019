@@ -58,7 +58,7 @@ All information about the course will be posted here.
 * **May 2** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
 * **May 9** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
 * **May 9** &mdash; **EXAM 3**
-* **May 14 (102), 16 (101,103) &mdash; **FINAL EXAM**
+* **May 14 (102), 16 (101,103) &mdash; FINAL EXAM**
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
