@@ -52,21 +52,13 @@ All information about the course will be posted here.
 * **Mar 26** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
 * **Apr 3** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
 * **Apr 4** &mdash; **EXAM 2**
-
-
-
-<!--
-* **Oct 10** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
-* **Oct 12** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
-* **Oct 18** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
-* **Oct 24** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
-* **Oct 26** &mdash; **EXAM 2**
-* **Nov 14** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
-* **Nov 21, 23** &mdash; **NO CLASS - THANKSGIVING BREAK**
-* **Nov 29** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
-* **Dec 6** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
-* **Dec 7** &mdash; **EXAM 3**
--->
+* **Apr 9** &mdash; **Makeup EXAM 2**
+* **Apr 18** &mdash; **NO CLASS - SPRING BREAK**
+* **Apr 23** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
+* **May 2** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
+* **May 9** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
+* **May 9** &mdash; **EXAM 3**
+* **May 14 (102), 16 (101,103) &mdash; **FINAL EXAM**
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->

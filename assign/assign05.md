@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 5: Struct Exercises"
 ---
 
-Due: Wednesday, Nov 14th by 11:59 PM
+Due: Tuesday, Apr 23rd by 11:59 PM
 
 <div class="callout">
 Note that late submissions will <em>not</em> be accepted for this assignment.
@@ -19,13 +19,13 @@ Your task for this assignment is to complete the following CloudCoder exercises.
 
 The exercises:
 
-1. [Order Price](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=979) <!-- 23:42 -->
-2. [Check Thing](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=978) <!-- 23:41 -->
-3. [Compute Diffuse](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=977) <!-- 23:40 -->
-4. [Tax Time](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=980) <!-- 23:43 -->
-5. [Mirror x](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=981) <!-- 23:44 -->
-6. [Swap Points](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=982) <!-- 23:45 -->
-7. [Hitbox](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=983)  <!-- 23:46 -->
+1. [Order Price](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1076) <!-- 23:42 -->
+2. [Check Thing](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1075) <!-- 23:41 -->
+3. [Compute Diffuse](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1074) <!-- 23:40 -->
+4. [Tax Time](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1077) <!-- 23:43 -->
+5. [Mirror x](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1078) <!-- 23:44 -->
+6. [Swap Points](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1079) <!-- 23:45 -->
+7. [Hitbox](https://cs.ycp.edu/cloudcoder/#exercise?c=19,p=1080)  <!-- 23:46 -->
 
 ## Hints
 
